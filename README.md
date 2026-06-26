@@ -11,3 +11,5 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+#LINK: https://ahana04062005-uci-heart-disease-data-model.hf.space/
